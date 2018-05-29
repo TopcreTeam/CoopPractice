@@ -10,5 +10,6 @@ public class CoopTestApplication {
 		SpringApplication.run(CoopTestApplication.class, args);
 		
 		// 이경민 코드
+		// 김동현 코드
 	}
 }
