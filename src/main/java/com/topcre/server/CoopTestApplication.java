@@ -8,5 +8,7 @@ public class CoopTestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CoopTestApplication.class, args);
+		
+		// 이경민 코드
 	}
 }
